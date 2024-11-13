@@ -30,12 +30,15 @@
     </a>
   </p>
   
+</div>
+
+<div style="text-align: center;">
   <p>TOOLS</p> 
-  <p style="text-align: center;">
+  <div style="display: inline-block; max-width: 600px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" />
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" style="width: 100%; max-width: 600px;" />
     </a>
-  </p>
+  </div>
 </div>
 
 
