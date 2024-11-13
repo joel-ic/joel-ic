@@ -9,6 +9,13 @@
 </div>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <div align="center">
+    <p>TOOLS</p> 
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" />
+    </a>
+  </p>
+  
   <p>PROGRAMMING LANGUAGES AND MARKUP</p> 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -27,13 +34,6 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=laravel,pytorch,tailwind,vue" />
-    </a>
-  </p>
-  
-  <p>TOOLS</p> 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" />
     </a>
   </p>
 </div>
