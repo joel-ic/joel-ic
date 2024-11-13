@@ -8,8 +8,3 @@
   </a>
 </div>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Joel-IC/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Joel-IC/Joel-IC/output/snake.svg" />
-</div>
