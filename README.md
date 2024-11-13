@@ -38,14 +38,5 @@
   </p>
 </div>
 
-<div style="text-align: center;">
-  <p>TOOLS</p> 
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" />
-    </a>
-  </p>
-</div>
-
 
 
