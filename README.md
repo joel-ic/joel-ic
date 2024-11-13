@@ -34,12 +34,29 @@
 
 <div style="text-align: center;">
   <p>TOOLS</p> 
-  <div style="display: inline-block; max-width: 600px;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" style="width: 100%; max-width: 600px;" />
-    </a>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" />
+    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" />
+    <img src="https://skillicons.dev/icons?i=idea" alt="idea" />
+    <img src="https://skillicons.dev/icons?i=sublime" alt="sublime" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
+    <img src="https://skillicons.dev/icons?i=cmake" alt="cmake" />
+    <img src="https://skillicons.dev/icons?i=github" alt="github" />
+    <img src="https://skillicons.dev/icons?i=git" alt="git" />
+    <img src="https://skillicons.dev/icons?i=npm" alt="npm" />
+    <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
+    <img src="https://skillicons.dev/icons?i=robloxstudio" alt="robloxstudio" />
+    <img src="https://skillicons.dev/icons?i=blender" alt="blender" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
+    <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" />
+    <img src="https://skillicons.dev/icons?i=ps" alt="ps" />
+    <img src="https://skillicons.dev/icons?i=unity" alt="unity" />
   </div>
 </div>
+
 
 
 
