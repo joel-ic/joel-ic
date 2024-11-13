@@ -10,7 +10,7 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <div>
-  [![Joel-IC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-IC)](https://github.com/anuraghazra/github-readme-stats)
+  [![Joel-IC GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-IC)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
