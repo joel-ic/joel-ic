@@ -12,23 +12,23 @@
   <p>PROGRAMMING LANGUAGES AND MARKUP<p/> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git, css, html, js, ts, java, php, py" />
+      <img src="https://skillicons.dev/icons?i, css, html, js, ts, java, php, py" />
     </a>
   </p>
   <p>DATABASES<p/> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git, mongodb, firebase, mysql" />
+      <img src="https://skillicons.dev/icons?i= mongodb, firebase, mysql" />
   <p>FRAMEWORKS<p/> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git, laravel, pytorch, tailwind, vue, " />
+      <img src="https://skillicons.dev/icons?i= laravel, pytorch, tailwind, vue" />
     </a>
   </p>
   <p>TOOLS<p/> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git, vscode, pycharm, androidstudio, arduino, idea, sublime, nodejs, cmake, github, git, npm, opencv, postman, robloxstudio, blender, figma, matlab, ps, unity" />
+      <img src="https://skillicons.dev/icons?i= vscode, pycharm, androidstudio, arduino, idea, sublime, nodejs, cmake, github, git, npm, opencv, postman, robloxstudio, blender, figma, matlab, ps, unity" />
     </a>
   </p>
 <div>
