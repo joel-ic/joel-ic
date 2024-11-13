@@ -12,7 +12,7 @@
   <p>PROGRAMMING LANGUAGES AND MARKUP<p/> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i, css, html, js, ts, java, php, py" />
+      <img src="https://skillicons.dev/icons?i,css,html,js,ts,java,php,py" />
     </a>
   </p>
   <p>DATABASES<p/> 
