@@ -9,22 +9,26 @@
 </div>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <div align="center">
-  <p>PROGRAMMING LANGUAGES<p/> 
+  <p>PROGRAMMING LANGUAGES AND MARKUP<p/> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=git, css, html, js, ts, java, php, py" />
     </a>
   </p>
+  <p>DATABASES<p/> 
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git, mongodb, firebase, mysql" />
   <p>FRAMEWORKS<p/> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=git, laravel, pytorch, tailwind, vue, " />
     </a>
   </p>
   <p>TOOLS<p/> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=git, vscode, pycharm, androidstudio, arduino, idea, sublime, nodejs, cmake, github, git, npm, opencv, postman, robloxstudio, blender, figma, matlab, ps, unity" />
     </a>
   </p>
 <div>
