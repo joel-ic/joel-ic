@@ -10,25 +10,31 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <div align="center">
   <p>PROGRAMMING LANGUAGES AND MARKUP</p> 
-  <p style="text-align: center;">
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,php,py" />
     </a>
   </p>
   
   <p>DATABASES</p> 
-  <p style="text-align: center;">
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
     </a>
   </p>
   
   <p>FRAMEWORKS</p> 
-  <p style="text-align: center;">
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=laravel,pytorch,tailwind,vue" />
     </a>
   </p>
+  
+  <p>TOOLS</p> 
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" />
+    </a>
+  </p>
 </div>
-
 
