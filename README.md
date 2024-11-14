@@ -42,7 +42,7 @@
     </td>
     <td align="center" style="border: 4px solid black; padding: 10px;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=laravel,pytorch,tailwind,vue" />
+        <img src="https://skillicons.dev/icons?i=laravel,pytorch,tailwind,vue,bootstrap" />
       </a>
     </td>
   </tr>
