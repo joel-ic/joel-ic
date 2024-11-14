@@ -15,38 +15,39 @@
     <img src="https://skillicons.dev/icons?i=blender,figma,matlab,ps,unity"/>
   </a>
 </div>
-
-
----
-
-<table align="center">
+<br>
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++PROGRAMMING+LANGUAGES+AND+MARKUP++++%3C%3C%3C">
-      </p>
+    <th align="center" style="border-right: 1px solid black; padding: 10px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++PROGRAMMING+LANGUAGES+AND+MARKUP++++%3C%3C%3C">
+    </th>
+    <th align="center" style="border-right: 1px solid black; padding: 10px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++DATABASES++++%3C%3C%3C">
+    </th>
+    <th align="center" style="padding: 10px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++FRAMEWORKS++++%3C%3C%3C">
+    </th>
+  </tr>
+  <tr>
+    <td align="center" style="border-right: 1px solid black; padding: 10px;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,php,py" />
+        <img src="https://skillicons.dev/icons?i=css,html,js,ts,java" />
+        <img src="https://skillicons.dev/icons?i=php,py" />
       </a>
     </td>
-    <td align="center">
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++DATABASES++++%3C%3C%3C">  
-      </p> 
+    <td align="center" style="border-right: 1px solid black; padding: 10px;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql">
       </a>
     </td>
-    <td align="center">
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++FRAMEWORKS++++%3C%3C%3C">  
-      </p> 
+    <td align="center" style="padding: 10px;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,pytorch,tailwind,vue" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
