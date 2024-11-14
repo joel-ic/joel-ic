@@ -19,34 +19,34 @@
 
 ---
 
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++PROGRAMMING+LANGUAGES+AND+MARKUP++++%3C%3C%3C">
-  </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,php,py" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++PROGRAMMING+LANGUAGES+AND+MARKUP++++%3C%3C%3C">
+      </p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,php,py" />
+      </a>
+    </td>
+    <td align="center">
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++DATABASES++++%3C%3C%3C">  
+      </p> 
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql">
+      </a>
+    </td>
+    <td align="center">
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++FRAMEWORKS++++%3C%3C%3C">  
+      </p> 
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,pytorch,tailwind,vue" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
 
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++DATABASES++++%3C%3C%3C">  
-  </p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++FRAMEWORKS++++%3C%3C%3C">  
-  </p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,pytorch,tailwind,vue" />
-  </a>
-</div>
 
