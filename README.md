@@ -9,20 +9,18 @@
 </div>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-<div align="center">
-  # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=Joel-IC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-IC&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-IC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-  ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ---
-  [![](https://visitcount.itsvg.in/api?id=Joel-IC&icon=8&color=0)](https://visitcount.itsvg.in)
-  
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-IC&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Joel-IC&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
     <p>TOOLS</p> 
