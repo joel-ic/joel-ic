@@ -1,32 +1,23 @@
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-IC&theme=neon&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-<!-- Copy-paste in your Readme.md file -->
 <div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119354492" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119354492&image_size=auto&color_scheme=dark" width="771" height="auto">
-      <img alt="Dashboard stats of @Joel-IC" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119354492&image_size=auto&color_scheme=light" width="771" height="auto">
-    </picture>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-IC&theme=neon&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  />
 </div>
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ---
 
 <div align="center">
-    <p>TOOLS</p> 
-  <p align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=1000&color=F7D927&background=8BFF0000&width=435&lines=%3E%3E%3E++++TOOLS++++%3C%3C%3C+++">
+  </h1>
+  <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" />
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio"/>
+      <img src="https://skillicons.dev/icons?i=blender,figma,matlab,ps,unity"/>
     </a>
   </p>
 </div>
+
 
 ---
 
@@ -45,7 +36,7 @@
   <p>DATABASES</p> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+      <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" "/>
     </a>
   </p>
 </div>
