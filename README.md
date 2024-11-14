@@ -1,3 +1,11 @@
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-IC&theme=neon&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
 <!-- Copy-paste in your Readme.md file -->
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119354492" target="_blank" style="display: block" align="center">
@@ -8,12 +16,6 @@
   </a>
 </div>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-IC&theme=neon&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
