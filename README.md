@@ -10,17 +10,13 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-IC&theme=neon&hide_border=false)<br/>
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Joel-IC&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
     <p>TOOLS</p> 
@@ -29,21 +25,33 @@
       <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio,blender,figma,matlab,ps,unity" />
     </a>
   </p>
-  
+</div>
+
+---
+
+<div align="center">
   <p>PROGRAMMING LANGUAGES AND MARKUP</p> 
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,php,py" />
     </a>
   </p>
-  
+</div>
+
+---
+
+<div align="center">
   <p>DATABASES</p> 
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
     </a>
   </p>
-  
+</div>
+
+---
+
+<div align="center">
   <p>FRAMEWORKS</p> 
   <p align="center">
     <a href="https://skillicons.dev">
