@@ -12,12 +12,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++TOOLS++++%3C%3C%3C">
   </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,idea,sublime,nodejs,cmake,github,git,npm,opencv,postman,robloxstudio"/>
-    <img src="https://skillicons.dev/icons?i=blender,figma,matlab,ps,unity"/>
+<!-- Relleno    10/10 -->
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,arduino,nodejs,github,git,robloxstudio,unity,figma"/> 
   </a>
 </div>
 <br>
-<table align="center" style="border-collapse: collapse;">
+<table align="center">
   <tr>
     <th align="center" style="border: 4px solid black; padding: 10px; text-align: center; vertical-align: middle;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++LANGUAGES++++%3C%3C%3C">
