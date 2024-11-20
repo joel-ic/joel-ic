@@ -20,7 +20,7 @@
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <th align="center" style="border: 4px solid black; padding: 10px; text-align: center; vertical-align: middle;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++PROGRAMMING+LANGUAGES+AND+MARKUP++++%3C%3C%3C">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++LANGUAGES++++%3C%3C%3C">
     </th>
     <th align="center" style="border: 4px solid black; padding: 10px; text-align: center; vertical-align: middle;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++DATABASES++++%3C%3C%3C">
