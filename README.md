@@ -11,8 +11,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&pause=2000&color=F7D927&background=8BFF0000&center=true&width=435&lines=%3E%3E%3E++++TOOLS++++%3C%3C%3C">
   </p>
   <a href="https://skillicons.dev">
-<!-- Relleno    9/10 -->
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino,nodejs,github,git,robloxstudio,unity,figma"/> 
+<!-- Relleno    8/10 -->
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino,nodejs,github,git,unity,figma"/> 
   </a>
 </div>
 <br>
@@ -31,17 +31,19 @@
   <tr>
     <td align="center" style="border: 4px solid black; padding: 10px;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css,html,js,ts,java" />
-        <img src="https://skillicons.dev/icons?i=php,py" />
+        <!-- Relleno    5/5 -->
+        <img src="https://skillicons.dev/icons?i=css,html,ts,php,py" />
       </a>
     </td>
     <td align="center" style="border: 4px solid black; padding: 10px;">
       <a href="https://skillicons.dev">
+        <!-- Relleno    3/5 -->
         <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql">
       </a>
     </td>
     <td align="center" style="border: 4px solid black; padding: 10px;">
       <a href="https://skillicons.dev">
+        <!-- Relleno    4/5 -->
         <img src="https://skillicons.dev/icons?i=laravel,tailwind,vue,bootstrap" />
       </a>
     </td>
