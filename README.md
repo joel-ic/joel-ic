@@ -5,7 +5,7 @@
   <!--   Stats part 2 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-IC&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&"
     height="150" alt="stats graph"  />
-  <img height="150" src="https://raw.githubusercontent.com/Joel-IC/Joel-IC/main/Resources/Zenitsu.gif"/>
+  <img height="150" src="https://raw.githubusercontent.com/Joel-IC/Joel-IC/main/Resources/Zen2.gif"/>
     
 </div>
 
