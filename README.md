@@ -38,7 +38,9 @@
     <td align="center" style="border: 4px solid black; padding: 10px;">
       <a href="https://skillicons.dev">
         <!-- Relleno    5/5 -->
-        <img src="https://skillicons.dev/icons?i=css,html,ts,php,py" />
+        <img src="https://skillicons.dev/icons?i=css,html,js,ts,php" />
+        <!-- Relleno    1/5 -->
+        <img src="https://skillicons.dev/icons?i=py" />
       </a>
     </td>
     <td align="center" style="border: 4px solid black; padding: 10px;">
