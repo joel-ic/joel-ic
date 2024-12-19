@@ -1,11 +1,11 @@
 <div align="center">
   <!--   Stats part 1 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=joel-ic&theme=neon&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged_percentage" height="150" alt="stats graph"&  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-ic&theme=neon&hide_border=false" height="150" alt="stats graph"&  /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=joel-ic&theme=neon&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged_percentage" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-ic&theme=neon&hide_border=false" height="150" alt="stats graph"  /> <br>
   <!--   Stats part 2 -->
   <img height="150" src="https://raw.githubusercontent.com/joel-ic/joel-ic/main/Resources/Gabriel.gif"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-ic&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8"
-    height="150" alt="stats graph"&  />
+    height="150" alt="stats graph"  />
   <img height="150" src="https://raw.githubusercontent.com/joel-ic/joel-ic/main/Resources/Satania.gif"/>
     
 </div>
