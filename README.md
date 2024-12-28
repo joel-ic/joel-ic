@@ -5,7 +5,7 @@
   <!--   Stats part 2 -->
   <img height="150" src="https://raw.githubusercontent.com/joel-ic/joel-ic/main/Resources/Gabriel.gif"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-ic&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8"
-    height="150" alt="stats graph"  />
+    height="150" alt="stats graph" & />
   <img height="150" src="https://raw.githubusercontent.com/joel-ic/joel-ic/main/Resources/Satania.gif"/>
     
 </div>
