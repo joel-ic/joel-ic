@@ -1,6 +1,6 @@
 <div align="center">
   <!--   Stats part 1 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=joel-ic&theme=neon&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged_percentage" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joel-ic&theme=neon&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged_percentage" height="150" alt="stats graph" &/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-ic&theme=neon&hide_border=false" height="150" alt="stats graph" & /> <br>
   <!--   Stats part 2 -->
   <img height="150" src="https://raw.githubusercontent.com/joel-ic/joel-ic/main/Resources/Gabriel.gif"/>
