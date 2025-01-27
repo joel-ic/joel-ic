@@ -51,8 +51,10 @@
     </td>
     <td align="center" style="border: 4px solid black; padding: 10px;">
       <a href="https://skillicons.dev">
-        <!-- Relleno    4/5 -->
-        <img src="https://skillicons.dev/icons?i=laravel,tailwind,vue,bootstrap" />
+        <!-- Relleno    5/5 -->
+        <img src="https://skillicons.dev/icons?i=laravel,tailwind,vue,bootstrap,astro" />
+        <!-- Relleno    1/5 -->
+        <img src="https://skillicons.dev/icons?i=nest" />
       </a>
     </td>
   </tr>
